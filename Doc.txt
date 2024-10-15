@@ -1,0 +1,45 @@
+Back in 2011, the rise of Business Intelligence tools posed a challenge to Microsoft to build its own business intelligence tool. Microsoft introduced the Power BI to deliver compelling analytical capabilities to existing Microsoft Excel and upgrade it to be intelligent enough to generate interactive reports.
+
+According to Gartner's Magic Quadrant, Microsoft Power BI is one of today’s top business intelligence tools, chiefly because most IT firms rely on Power BI for their business analytics. As a result, the current IT industry finds a massive demand for Power BI Experts. 
+
+This tutorial is solely dedicated to helping aspiring Power BI professionals grasp the essential fundamentals of Power BI and crack the interviews in real-time. The tutorial is organized based on three categories, outlined below.
+
+Power BI Interview Questions - Beginner Level 
+Power BI Interview Questions - Intermediate Level
+Power BI Interview Questions - Advanced Level 
+Most Asked Power BI Interview Questions
+What is Power BI?
+Difference between Power BI and Tableau
+Difference between Power Query and Power Pivot
+What is Power BI Desktop
+What is Power Pivot?
+What is Power Query?
+What is DAX?
+What are Filters in Power BI?
+What are Custom Visuals in Power BI?
+What is GetData in Power BI?
+We have five dozen questions for you, so let’s begin by going through some refresher-level or frequently asked beginner-level Power BI interview questions.
+
+Become a Data Science & Business Analytics Professional
+28%
+Annual Job Growth By 2026
+11.5 M
+Expected New Jobs For Data Science By 2026
+PL-300 Microsoft Power BI Certification Training
+PL-300 Microsoft Power BI Certification Training
+24x7 learner assistance and support
+View Program
+iHUB, IIT Roorkee
+Professional Certificate Program in Business Analytics & Generative AI
+11 Months months
+View Program
+Not sure what you’re looking for?View all Related Programs
+Power BI Interview Questions For Freshers
+1. What is Power BI?
+Power BI is a business analytics tool developed by Microsoft that helps you turn multiple unrelated data sources into valuable and interactive insights. These data may be in the form of an Excel spreadsheet or cloud-based/on-premises hybrid data warehouses. You can easily connect to all your data sources and share the insights with anyone.
+
+2. Why should we use Power BI?
+Because Power BI provides an easy way for anyone, including non-technical people, to connect, change, and visualize their raw business data from many different sources and turn it into valuable data that makes it easy to make smart business decisions.
+
+3. Difference between Power BI and Tableau
+Both Tableau and Power BI are the current IT industry's data analytics and visualization giants. Yet, there are a few significant differences between them. You will now explore the important differences between Tableau and Power BI.
